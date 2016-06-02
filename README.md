@@ -15,16 +15,18 @@
 # Impresión 3D
 ## [Tecnologías de impresión 3D](./Teconologias.md)
 ## [Tipos de impresoras](./Geometrias.md)
-## [Filamentos](./Filamentos.md)
-# Manejando una impresora 3D
-## [Software](./Software.md)
-## Funcionamiento
-## Mantenimiento y cuidados
+## [Tipos de Filamentos](./Filamentos.md)
+## Manejando una impresora 3D
+### [Software de impresión](./Software.md)
+### [Formatos de impresión](./Formatos.md)
+### Funcionamiento
+### Mantenimiento y cuidados
 
 # Diseño 3D
-## [Herramientas](./Herramientas.md)
-## [Formatos de impresión](./Formatos.md)
-## [SketchUp](./SketchUp.md)
-## [Freecad](./Freecad.md)
-## [ThinkerCad](./ThinkerCad.md)
-## [BlockScad](./BlockScad.md)
+## [Herramientas de diseño](./Herramientas.md)
+### [Herramientas comerciales](./HerramientasComerciales.md)
+#### [ThinkerCad](./ThinkerCad.md)
+#### [SketchUp](./SketchUp.md)
+### [Herramientas OpenSource](./HerramientasOpenSource.md)
+#### [BlockScad](./BlockScad.md)
+#### [Freecad](./Freecad.md)
