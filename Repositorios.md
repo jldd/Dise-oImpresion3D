@@ -1,3 +1,12 @@
+# Iniciacion al Diseño e impresión 3D
+
+## Julio  2016
+
+### José Antonio Vacas @javacasm
+![CCbySA](imagenes/CCbySQ_88x31.png)
+
+* *  *
+
 #### Repositorios
 
 * [youimagine](https://www.youmagine.com)
