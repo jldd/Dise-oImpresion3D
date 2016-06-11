@@ -30,3 +30,11 @@
 ### [Herramientas OpenSource](./HerramientasOpenSource.md)
 #### [BlockScad](./BlockScad.md)
 #### [Freecad](./Freecad.md)
+
+Se trata de hacer un curso práctico en el que los participantes aprendan a utilizar el Software necesario para Diseñar en 3D y para trabajar con impresoras 3D.
+
+Se usará software abierto, viéndose algunas de las alternativas gratuitas.
+
+El alumno utilizará el ordenador para hacer diseños y utilizará el software de manejo de impresión 3D para ver cómo se imprimiría realmente.
+
+Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas.
