@@ -12,7 +12,7 @@
 
 Diseño e impresión en 3D
 
-- ¿Qué es?
+- [¿Qué es?](./QuEs3D.md)
 - [¿Para qué sirve?](./ParaQueSirve3D.md)
 - [Aplicaciones](./Aplicaciones.md)
 - [¿Dónde encontrar diseños?](./Repositorios.md)
@@ -34,7 +34,7 @@ Impresión 3D
 
 # VIERNES 15 DE JULIO DE 2016 (9.00-14.30)
 
-## Diseño 3D
+## [Diseño 3D](Disenio3D.md)
 - [Herramientas de diseño](./HerramientasDisenio.md)
   * [Herramientas comerciales](./HerramientasComerciales.md)
      * [ThinkerCad](./ThinkerCad.md)
