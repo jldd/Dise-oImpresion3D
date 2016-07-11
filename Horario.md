@@ -13,12 +13,10 @@
 Diseño e impresión en 3D
 
 - ¿Qué es?
-
-- ¿Para qué sirve?
-
+- [¿Para qué sirve?](./ParaQueSirve3D.md)
 - [Aplicaciones](./Aplicaciones.md)
-
 - [¿Dónde encontrar diseños?](./Repositorios.md)
+- [OpenSource](./OpenSource.md)
 
 # JUEVES 14 DE JULIO DE 2016 (9.00-14.30)
 
@@ -28,20 +26,20 @@ Impresión 3D
  * [Tipos de Filamentos](./Filamentos.md)
 
 - Manejando una impresora 3D
-  * Software de impresión
-  * Formatos de impresión
+  * [Software de impresión](./Software.md)
+  * [Formatos de impresión](./Formatos.md)
   * Funcionamiento
   * Mantenimiento y cuidados
-  * Problemas
+  * [Solución de Problemas](./Problemas.md)
 
 # VIERNES 15 DE JULIO DE 2016 (9.00-14.30)
 
 ## Diseño 3D
-- Herramientas de diseño
-  * Herramientas comerciales
-     * ThinkerCad
-     * SketchUp
+- [Herramientas de diseño](./HerramientasDisenio.md)
+  * [Herramientas comerciales](./HerramientasComerciales.md)
+     * [ThinkerCad](./ThinkerCad.md)
+     * [SketchUp](./SketchUp.md)
 
-- Herramientas OpenSource
-  * BlockScad
-  * Freecad
+- [Herramientas OpenSource](./HerramientasOpenSource.md)
+  * [BlockScad](./BlockScad.md)
+  * [Freecad](./Freecad.md)
