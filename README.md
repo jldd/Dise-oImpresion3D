@@ -18,6 +18,7 @@
 
 ## [Tecnologías de impresión 3D](./Teconologias.md)
 ### [Tipos de impresoras](./Geometrias.md)
+### [Modelos de impresoras 3d](./Impresoras3D.md)
 ### [Tipos de Filamentos](./Filamentos.md)
 
 ## Manejando una impresora 3D
