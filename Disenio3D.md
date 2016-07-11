@@ -17,3 +17,6 @@ Existen diferentes formas de diseñar 3D
 ![2](http://parametriccamp.com/wp/wp-content/uploads/2011/06/berlin.jpg)
 
 ![3](http://parametriccamp.com/wp/wp-content/uploads/2011/06/ghyesferas.jpg)
+
+* Diseño analítico
+* Operaciones de *Adición* y *sustracción*, *Lógica*, etc...
