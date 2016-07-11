@@ -25,3 +25,5 @@
 
 [tecnologías](http://www.xataka.com/perifericos/estas-son-las-tecnologias-de-impresion-3d-que-hay-sobre-la-mesa-y-lo-que-puedes-esperar-de-ellas)
 [impresión 3d](http://es.wikipedia.org/wiki/Impresi%C3%B3n_3D)
+
+[tecnologias](http://comohacer.eu/comparativa-impresoras-3d/#Tipos_de_impresion_3D)
