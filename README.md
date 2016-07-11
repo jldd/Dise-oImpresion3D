@@ -9,9 +9,10 @@
 
 # Diseño e impresión en 3D
 ## ¿Qué es?
-## ¿Para qué sirve?
+## [¿Para qué sirve?](./ParaQueSirve3D.md)
 ## [Aplicaciones](./Aplicaciones.md)
 ## [¿Dónde encontrar diseños?](./Repositorios.md)
+## [OpenSource](./OpenSource.md)
 
 # Impresión 3D
 
@@ -25,11 +26,11 @@
 ### [Formatos de impresión](./Formatos.md)
 ### Funcionamiento
 ### Mantenimiento y cuidados
-### Problemas
+### [Solución de Problemas](./Problemas.md)
 
 # Diseño 3D
 
-## [Herramientas de diseño](./Herramientas.md)
+## [Herramientas de diseño](./HerramientasDisenio.md)
 ### [Herramientas comerciales](./HerramientasComerciales.md)
 #### [ThinkerCad](./ThinkerCad.md)
 #### [SketchUp](./SketchUp.md)
