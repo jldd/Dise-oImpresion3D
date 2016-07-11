@@ -8,7 +8,7 @@
 * *  *
 
 # Diseño e impresión en 3D
-## ¿Qué es?
+## [¿Qué es?](./QuEs3D.md)
 ## [¿Para qué sirve?](./ParaQueSirve3D.md)
 ## [Aplicaciones](./Aplicaciones.md)
 ## [¿Dónde encontrar diseños?](./Repositorios.md)
@@ -28,7 +28,7 @@
 ### Mantenimiento y cuidados
 ### [Solución de Problemas](./Problemas.md)
 
-# Diseño 3D
+# [Diseño 3D](Disenio3D.md)
 
 ## [Herramientas de diseño](./HerramientasDisenio.md)
 ### [Herramientas comerciales](./HerramientasComerciales.md)
