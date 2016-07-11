@@ -11,18 +11,24 @@
 ## ¿Qué es?
 ## ¿Para qué sirve?
 ## [Aplicaciones](./Aplicaciones.md)
-## ¿[Dónde encontrar diseños](./Repositorios.md)?
+## [¿Dónde encontrar diseños?](./Repositorios.md)
+
 # Impresión 3D
+
 ## [Tecnologías de impresión 3D](./Teconologias.md)
-## [Tipos de impresoras](./Geometrias.md)
-## [Tipos de Filamentos](./Filamentos.md)
+### [Tipos de impresoras](./Geometrias.md)
+### [Tipos de Filamentos](./Filamentos.md)
+
 ## Manejando una impresora 3D
+
 ### [Software de impresión](./Software.md)
 ### [Formatos de impresión](./Formatos.md)
 ### Funcionamiento
 ### Mantenimiento y cuidados
+### Problemas
 
 # Diseño 3D
+
 ## [Herramientas de diseño](./Herramientas.md)
 ### [Herramientas comerciales](./HerramientasComerciales.md)
 #### [ThinkerCad](./ThinkerCad.md)
