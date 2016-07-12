@@ -12,7 +12,7 @@
 
 Diseño e impresión en 3D
 
-- [¿Qué es?](./QuEs3D.md)
+- [¿Qué es?](./QueEs3D.md)
 - [¿Para qué sirve?](./ParaQueSirve3D.md)
 - [Aplicaciones](./Aplicaciones.md)
 - [¿Dónde encontrar diseños?](./Repositorios.md)
