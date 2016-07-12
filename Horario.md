@@ -17,6 +17,7 @@ Diseño e impresión en 3D
 - [Aplicaciones](./Aplicaciones.md)
 - [¿Dónde encontrar diseños?](./Repositorios.md)
 - [OpenSource](./OpenSource.md)
+- [Anatomía de una impresora](./impresora3D.md)
 
 # JUEVES 14 DE JULIO DE 2016 (9.00-14.30)
 
