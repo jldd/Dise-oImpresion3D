@@ -12,4 +12,4 @@
 * Necesidad de prototipado rápido
 * Facilitar la distribución de productos: se genera donde se necesita
 * Facilidad de producción
-* Creación de productos libres
+* Autocreación de productos
