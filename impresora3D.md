@@ -17,8 +17,6 @@
 ![3](./images/prusai3.png)
 
 
-
-
 ## Extrusor
 
 ![extrusor](./images/imagen_hotend.jpg)
