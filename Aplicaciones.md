@@ -55,3 +55,5 @@ Vemos en las noticas que [parte de la turbina de avión es una pieza impresa en 
 Buscamos [imágenes de modelos de turbinas](https://www.google.es/search?q=thingiverse++turbine&safe=off&espv=2&biw=1920&bih=895&source=lnms&tbm=isch&sa=X&ei=qXVcVbPsKIXwUKX6gKAH&ved=0CAYQ_AUoAQ). Más aún podemos buscar esos modelos [modelos de turbinas](https://www.thingiverse.com/tag:turbine/page:1)
 
 Finalmente vemos un [modelo que nos interesa](http://www.thingiverse.com/thing:76369), [descargamos los modelos](http://www.thingiverse.com/thing:76369/zip)
+
+# Busca sectores donde se puede usar
