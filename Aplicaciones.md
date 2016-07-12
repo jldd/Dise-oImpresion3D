@@ -9,6 +9,14 @@
 
 # Aplicaciones
 
+* Aplicaciones médicas
+
+[Hospital Marañón](https://twitter.com/hashtag/hospitalmara%C3%B1on3D?src=hash)
+
+[Impresión 3D en medicina](http://impresiontresde.com/blog/9-aplicaciones-medicas-de-la-impresion-3d/)
+
+[Proyecto e-NABLE](http://www.imprimalia3d.com/noticias/2014/03/06/001528/pr-tesis-manos-mediante-impresi-n-3d)
+
 
 * Aplicaciones para ingeniería
 
@@ -37,7 +45,7 @@
 	[[modelo]](http://www.thingiverse.com/thing:114468)    [[vídeo]](https://www.youtube.com/watch?v=6rX4xv5-NvE)
 
 	![modelo pequeño de turbina](http://3dprint.com/wp-content/uploads/2014/07/buildyourown5.gif)
-	
+
 	[[modelo]](https://www.thingiverse.com/thing:392115)
 
 ### Ejemplo: una turbina
