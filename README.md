@@ -13,6 +13,7 @@
 ## [Aplicaciones](./Aplicaciones.md)
 ## [¿Dónde encontrar diseños?](./Repositorios.md)
 ## [OpenSource](./OpenSource.md)
+## [Anatomía de una impresora](./impresora3D.md)
 
 # Impresión 3D
 
