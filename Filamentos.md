@@ -7,11 +7,17 @@
 
 * *  *
 
-## Filamentos
+## [Filamentos](http://comohacer.eu/comparativa-impresoras-3d/#Que_materiales_usan)
 
 Cada vez existen más materiales susceptibles de poder usarse en las impresoras.
 
-Mirar http://comohacer.eu/comparativa-impresoras-3d/#Que_materiales_usan
+* PLA
+* ABS
+* Proyecto
+* Nylon
+* HerramientasOpenSource
+* Nijaflex
+* ...
 
 ### Temperatura
 
