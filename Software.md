@@ -1,4 +1,4 @@
-# Iniciacion al Diseño e impresión 3D
+# Iniciación al Diseño e impresión 3D
 
 ## Julio  2016
 
@@ -12,7 +12,7 @@
 * Laminadores
 ![laminadores](http://tr3sdland.com/wp-content/uploads/2012/12/fillDensity.png)
 
-* ¿Personalizadores (3D)?
+* Personalizadores (3D)
 
 
 ## Gestión de la impresión
@@ -32,9 +32,3 @@
 
 * [Pronterface](http://koti.kapsi.fi/~kliment/printrun/)
 * [Repetier-Host](http://www.repetier.com/download/)
-
-
-# Diseño 3D
-
-* [FreeCad](https://freecadweb.org)
-* [SketchUp](https://www.sketchup.com/es)
