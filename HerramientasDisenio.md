@@ -1,3 +1,13 @@
+# Iniciación al Diseño e impresión 3D
+
+## Julio  2016
+
+### José Antonio Vacas @javacasm
+
+![CCbySA](images/CCbySQ_88x31.png)
+
+* *  *
+
 #### Herramientas de diseño en 3D
 
 ![cad](http://www.deelip.com/images/2010-08-11-001.gif)
