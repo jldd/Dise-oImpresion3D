@@ -29,3 +29,5 @@
 ![8](./images/i2.jpg)
 
 ![9](./images/replicator-cheap-3d-printer-design1.jpg)
+
+![10](./images/scara.jpg)
