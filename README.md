@@ -44,6 +44,11 @@
 #### [BlockScad](./BlockScad.md)
 #### [Freecad](./Freecad.md)
 
+# [Tareas](./Tareas.md)
+
+
+# Introducción
+
 Se trata de hacer un curso práctico en el que los participantes aprendan a utilizar el Software necesario para Diseñar en 3D y para trabajar con impresoras 3D.
 
 Se usará software abierto, viéndose algunas de las alternativas gratuitas.
