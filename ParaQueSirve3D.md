@@ -1,11 +1,11 @@
-# Iniciacion al Diseño e impresión 3D
+# Iniciación al Diseño e impresión 3D
 
 ## Julio  2016
 
 ### José Antonio Vacas @javacasm
-![CCbySA](images/CCbySQ_88x31.png)
 
-* *  *
+![CCbySA](images/CCbySQ_88x31.png)
+* * *
 
 # Impresión 3D
 
