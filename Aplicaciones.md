@@ -1,4 +1,4 @@
-# Iniciacion al Diseño e impresión 3D
+# Iniciación al Diseño e impresión 3D
 
 ## Julio  2016
 
