@@ -15,9 +15,11 @@ Diseño e impresión en 3D
 - [¿Qué es?](./QueEs3D.md)
 - [¿Para qué sirve?](./ParaQueSirve3D.md)
 - [Aplicaciones](./Aplicaciones.md)
+- [Historia](./Historia.md)
 - [¿Dónde encontrar diseños?](./Repositorios.md)
 - [OpenSource](./OpenSource.md)
 - [Anatomía de una impresora](./impresora3D.md)
+- [Donde Comprar](./Comprar.md)
 
 # JUEVES 14 DE JULIO DE 2016 (9.00-14.30)
 
@@ -32,6 +34,7 @@ Impresión 3D
   * [Software de impresión](./Software.md)
   * [Formatos de impresión](./Formatos.md)
   * Funcionamiento
+  * [Proceso de impresión](./Proceso De Impresion.md)
   * Mantenimiento y cuidados
   * [Solución de Problemas](./Problemas.md)
 

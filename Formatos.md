@@ -1,5 +1,5 @@
-#### Formatos de impresión
+#### Formatos de impresión y proceso de impresión
 
-STL
+* Generamos el STL a partir del diseño
 
-Gcode
+* Generamos el Gcode para la configuración de nuestra máquina

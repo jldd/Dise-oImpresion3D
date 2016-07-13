@@ -13,6 +13,8 @@
 * Tensión de las correas
 * Engrasado
 * Falta de rigidez de la estructura
+* Atascos
+* Falta de adhesión a la base
 
 ## Problemas eléctricos
 * Calibrado de motores
