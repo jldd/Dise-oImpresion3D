@@ -1,4 +1,4 @@
-Iniciacion al Diseño e impresión 3D
+# Iniciación al Diseño e impresión 3D
 
 ## Julio  2016
 
@@ -9,7 +9,7 @@ Iniciacion al Diseño e impresión 3D
 * Diseño
 * Conversión a STL
 * Envío a la impresora: USB, SD u Octoprint
-* Preparación de la base (según el material(: 
+* Preparación de la base (según el material(:
  * Laca
  * Cinta kapton
 ![1]( https://www.spainphone.com/images/productos/cintakapton2.jpg)
@@ -20,4 +20,4 @@ Iniciacion al Diseño e impresión 3D
 * Calentamiento de la maquina: extrusor y/o base
 * Impresión de la pieza
 
-NUNCA DEJAR KA IMPRESIÓN SIN VIGILANCIA 
+NUNCA DEJAR KA IMPRESIÓN SIN VIGILANCIA
