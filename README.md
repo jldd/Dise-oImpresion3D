@@ -7,7 +7,7 @@
 
 * *  *
 
-# Diwewseño e impresión en 3D
+# Diseño e impresión en 3D
 ## [¿Qué es?](./QueEs3D.md)
 ## [¿Para qué sirve?](./ParaQueSirve3D.md)
 ## [Aplicaciones](./Aplicaciones.md)
