@@ -1,10 +1,6 @@
-# Programar Para Educar
+# Iniciación al Diseño e impresión 3D
 
-## Curso del CEP de Granada
-
-## Enero de 2016
-
-[Calendario](./Indice.md)
+## Julio  2016
 
 ### José Antonio Vacas @javacasm
 
