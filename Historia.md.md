@@ -1,4 +1,4 @@
-Iniciacion al Diseño e impresión 3D
+# Iniciación al Diseño e impresión 3D
 
 ## Julio  2016
 
@@ -18,4 +18,3 @@ Iniciacion al Diseño e impresión 3D
 En España CloneWars (con @ObiJuan)
 
 [Referencia]( https://en.m.wikipedia.org/wiki/3D_printing)
-
