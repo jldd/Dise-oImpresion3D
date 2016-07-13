@@ -30,6 +30,9 @@
 
 ![steel](./images/600px-PRUSA_i3_steel_3mm_lasercut_2.01d_irobri_color.jpg)
 
+## Cama caliente
+
+Fundamental para una buena adhesión.
 
 ## Mecánica y Electrónica
 
