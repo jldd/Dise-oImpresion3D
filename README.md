@@ -11,7 +11,7 @@
 ## [¿Qué es?](./QueEs3D.md)
 ## [¿Para qué sirve?](./ParaQueSirve3D.md)
 ## [Aplicaciones](./Aplicaciones.md)
-## [Historia](./Historia.md)
+## [Historia](./Historia.md.md)
 ## [¿Dónde encontrar diseños?](./Repositorios.md)
 ## [OpenSource](./OpenSource.md)
 ## [Anatomía de una impresora](./impresora3D.md)
