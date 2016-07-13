@@ -8,4 +8,9 @@
 
 * *  *
 
-# ThinkerCad
+# [ThinkerCad](https://www.tinkercad.com/)
+
+![1](./images/tinkercad.png)
+
+![2](./images/FKJF2PFHJKBYHMJ.MEDIUM.jpg)
+[Mini-Curso de ThinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
