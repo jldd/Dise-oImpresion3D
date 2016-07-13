@@ -18,6 +18,11 @@
 ## Gestión de la impresión
 
 * [Cura](http://ultimaker.com/software)
+
+[Vídeo sobre uso de Cura](https://www.youtube.com/watch?v=2ElFWTCIAAo)
+
+* [Slic3r](https://www.youtube.com/watch?v=tlv_MOkPG54)
+
 * [KISSlicer](http://kisslicer.com/)
 
 
