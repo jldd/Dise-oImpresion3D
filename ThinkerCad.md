@@ -1,4 +1,4 @@
-# Iniciacion al Diseño e impresión 3D
+# Iniciación al Diseño e impresión 3D
 
 ## Julio  2016
 
@@ -13,4 +13,5 @@
 ![1](./images/tinkercad.png)
 
 ![2](./images/FKJF2PFHJKBYHMJ.MEDIUM.jpg)
+
 [Mini-Curso de ThinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
