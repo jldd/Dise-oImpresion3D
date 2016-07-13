@@ -1,3 +1,12 @@
+# Iniciación al Diseño e impresión 3D
+
+## Julio  2016
+
+### José Antonio Vacas @javacasm
+![CCbySA](images/CCbySQ_88x31.png)
+
+* *  *
+
 #### Formatos de impresión y proceso de impresión
 
 * Generamos el STL a partir del diseño
