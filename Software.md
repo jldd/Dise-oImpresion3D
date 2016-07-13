@@ -13,7 +13,7 @@
 ![laminadores](http://tr3sdland.com/wp-content/uploads/2012/12/fillDensity.png)
 
 * Personalizadores (3D)
-
+([Ejemplo](http://www.thingiverse.com/thing:1637108))
 
 ## Gestión de la impresión
 
