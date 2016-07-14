@@ -26,7 +26,7 @@
     * Favoritos
     * Extras
     * Podemos importar modelos STLs
-    * Usar los Generadores de Formas
+    * Usar los Generadores de Formas: Hay muchísimos!!!
     * Componentes
     * ¡¡Huecos!!
   * ¡¡Tiene deshacer!!
@@ -43,5 +43,7 @@
 
 1. Cabeza de Conejo (usando plano de trabajo)
 1. Crear tubo (Cilindros centrados)
+1. Hacer un dado
+
 
 [Mini-Curso de ThinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
