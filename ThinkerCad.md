@@ -12,7 +12,7 @@
 
 ![1](./images/tinkercad.png)
 
-![2](./images/FKJF2PFHJKBYHMJ.MEDIUM.jpg)
+![2](./images/notre-dame-tinkercad.png)
 
 * Herramienta online gratuita
 * Necesita crearse una cuenta
