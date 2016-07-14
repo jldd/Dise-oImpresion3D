@@ -36,6 +36,8 @@
       * Agruparlas
   * En propiedades podemos cambiar el nombre  
   * Usar la regla sobre un objeto y así modificar sus dimensiones o ángulos
+
+
 # Tareas
 
 
