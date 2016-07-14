@@ -34,7 +34,11 @@ Es una herramienta 2D que permite "levantar" los dibujos
   * Herramienta de goma, muy pontente. Si borramos caras de arriba veremos porqué decimos que es una herramienta 2D
   * Herramienta de offset (y follow me)
   * Podemos crear objetos de medidas exactas usando las cantidades (separadas por ;)
+  * Podemos trabajar fuera o dentro de nuestro modelo
+  * Añadimos guías
+  * Podemos añadir colores o texturas
   * 3D Warehouse
+
 
 
 # Tareas
@@ -43,6 +47,7 @@ Es una herramienta 2D que permite "levantar" los dibujos
 * Añadir una chimenea "a mano" (3 formas de hacerlo)
 * Añadir una escalera de entrada
 * Hacer zócalos
+* Añadir mobiliario
 
 
 
