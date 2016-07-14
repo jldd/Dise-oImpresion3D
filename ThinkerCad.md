@@ -14,4 +14,32 @@
 
 ![2](./images/FKJF2PFHJKBYHMJ.MEDIUM.jpg)
 
+* Herramienta online gratuita
+* Necesita crearse una cuenta
+* Al entrar encontramos tutoriales sencillos
+* Interface:
+  * Plano de trabajo
+    * Podemos cambiar el plano de trabajo y así todo lo que hagamos se referirá al nuevo
+  * A la derecha las paletas:
+    * Geometrías  
+    * Letras, Números y símbolos
+    * Favoritos
+    * Extras
+    * Podemos importar modelos STLs
+    * Usar los Generadores de Formas
+    * Componentes
+    * ¡¡Huecos!!
+  * ¡¡Tiene deshacer!!
+  * Sobre una pieza podemos girar, mover, cambiar de tamaño, según selecciones los distintos puntos o flechas
+  * Si tenemos varias piezas podemos
+      * Alinearlas
+      * Agruparlas
+  * En propiedades podemos cambiar el nombre  
+  * Usar la regla sobre un objeto y así modificar sus dimensiones o ángulos
+# Tareas
+
+
+1. Cabeza de Conejo (usando plano de trabajo)
+1. Crear tubo (Cilindros centrados)
+
 [Mini-Curso de ThinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
